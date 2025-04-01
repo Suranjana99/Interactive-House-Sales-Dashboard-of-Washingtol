@@ -1,4 +1,3 @@
-# Interactive-House-Sales-Dashboard-of-Washington
 # Washington House Sales Dashboard
 
 ## Overview
@@ -23,10 +22,4 @@ A **Tableau dashboard** visualizing Washington house sales data, showcasing pric
 ## Future Enhancements
 - More interactivity & predictive analytics.
 
-
-## Author
-[Your Name] | [LinkedIn] | [GitHub]
-
-## License
-Open-source under [MIT License](LICENSE).
 
